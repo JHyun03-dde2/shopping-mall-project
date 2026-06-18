@@ -116,36 +116,16 @@
 
 ### 메인 화면
 
-![메인 화면](./docs/images/main.png)
+![메인 화면](./docs/img/main.png)
 
 ### 상품 목록 화면
 
-![상품 목록 화면](./docs/images/product-list.png)
+![상품 목록 화면](./docs/img/product-list.png)
 
 ### 상품 상세 화면
 
-![상품 상세 화면](./docs/images/product-detail.png)
+![상품 상세 화면](./docs/img/product-detail.png)
 
 ### 장바구니 화면
 
-![장바구니 화면](./docs/images/cart.png)
-
-### 주문/결제 화면
-
-![주문 결제 화면](./docs/images/order.png)
-
-### 마이페이지 화면
-
-![마이페이지 화면](./docs/images/mypage.png)
-
-### 관리자 대시보드
-
-![관리자 대시보드](./docs/images/admin-dashboard.png)
-
-### 관리자 상품 관리 화면
-
-![관리자 상품 관리 화면](./docs/images/admin-product.png)
-
-### 관리자 주문 관리 화면
-
-![관리자 주문 관리 화면](./docs/images/admin-order.png)
+![장바구니 화면](./docs/img/cart.png)
